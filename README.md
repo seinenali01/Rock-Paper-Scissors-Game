@@ -1,7 +1,7 @@
 # **Rock-Paper-Scissors-Game**
 
 ## **Overview**
-A Simple console-based Rock, Paper, Scissors game using **`Python`** Language , where the user competes against the computer.
+A `Rock, Paper, Scissors` Game where the computer's move is random, and points are awarded for each win. The user can choose to quit playing, and the total points are displayed at the end.
 
 ## **How to Run**
 
